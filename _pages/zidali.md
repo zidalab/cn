@@ -8,7 +8,7 @@ permalink: /zidali/
 <div class="row">
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Zida.jpg" class="img-responsive" width="25%" style="float: left" />
-  <h4>[李自达](/zidali)</h4>
+  <h4>李自达</h4>
   <i>副教授</i> <br>
   email: zidali AT szu.edu.cn<br>
   <ul style="overflow: hidden">
