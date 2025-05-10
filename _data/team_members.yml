@@ -1,0 +1,62 @@
+- name: 方琪
+  photo: Fangqi.jpg
+  info: 硕士研究生
+  email: 779574160 AT qq.com
+  number_educ: 1
+  education1: 安徽医科大学，生物医学工程学士（2018-2022）
+
+- name: 翟恒
+  photo: Zhaiheng.jpg
+  info: 硕士研究生
+  email: zhaiheng1998 AT outlook.com
+  number_educ: 1
+  education1: 广东医科大学，生物医学工程学士（2017-2021）
+
+- name: 姚婉君
+  photo: Wanjun.jpg
+  info: 硕士研究生
+  email: yaowanjun2000 AT 163.com
+  number_educ: 1
+  education1: 浙江理工大学，电子信息工程学士（2018-2022）
+
+- name: 陈佳兆
+  photo: Jiazhao.jpg
+  info: 硕士研究生
+  email: cjz524611714 AT gmail.com
+  number_educ: 1
+  education1: 深圳大学，生物医学工程学士（2019-2023）
+
+- name: 郑雨憧
+  photo: Yuchong.png
+  info: 硕士研究生
+  email: 634255151 AT qq.com
+  number_educ: 1
+  education1: 深圳大学，生物技术学士（2019-2023）
+
+- name: 朱嘉盈
+  photo: Jiaying.jpg
+  info: 硕士研究生
+  email: 2021220050 AT email.szu.edu.cn
+  number_educ: 1
+  education1: 深圳大学，生物医学工程学士（2021-2025）
+
+- name: 黄晓娜
+  photo: Xiaona.jpg
+  info: 硕士研究生
+  email: 2021220057 AT email.szu.edu.cn
+  number_educ: 1
+  education1: 深圳大学，生物医学工程学士（2021-2025）
+
+- name: 黄振栩
+  photo: Zhenxu.jpg
+  info: 硕士研究生
+  email: HuaKAI0714 AT gmail.com
+  number_educ: 1
+  education1: 深圳大学，生物医学工程学士（2021-2025）
+
+- name: 郑翊思
+  photo: Yisi.jpg
+  info: 硕士研究生
+  email: 2021222017 AT email.szu.edu.cn
+  number_educ: 1
+  education1: 华南农业大学，制药工程学士（2021-2025）

@@ -1,0 +1,19 @@
+#- name:
+#  photo: rock.jpg
+#  info:
+#  email:
+#  number_educ:
+#  education1:
+#  education2:
+#  education3:
+#  education4:
+- name: 邓蕊
+  photo: Rui.jpg
+  info: 本科生
+  email: XX
+  number_educ: 1
+  education1: 深圳大学，生物医学工程学士（2021-2025）
+
+
+
+
