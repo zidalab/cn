@@ -15,7 +15,7 @@ permalink: /research/
 - [即时凝血检验](#biochip)
 - [微流控新技术](#microfluidics)
 
-部分已完成或正在进行的课题如下所示。
+部分已完成或正在进行的课题如下所示。课题组的实验平台请[点此]({{ site.url }}{{ site.baseurl }}/instrumente)。
 
 ![Research Overview]({{ site.url }}{{ site.baseurl }}/images/respic/research_overview.png){: style="width: 40%; float: center; margin: 0px"}
 
