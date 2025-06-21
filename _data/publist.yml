@@ -1,6 +1,6 @@
 - title: "Flow-LAMP: Label-free Digital LAMP using Scatter-based Flow Cytometry on Vortex-Generated Polydisperse Gel Beads"
   image:
-  authors: Wanjun Yao, Yuchong Zheng, Weidong Zheng, <b>Zida Li</b>, et al.
+  authors: Wanjun Yao, Yuchong Zheng, Zerui Wu, Liqun He, Weidong Zheng, and <b>Zida Li</b>
   description:
   link:
     url:
@@ -10,7 +10,17 @@
 
 - title: "Precipitate-informed deep learning enables label-free multiplex digital nucleic acid testing in polydisperse droplets"
   image:
-  authors: Jiazhao Chen, Jingyi Ding, Rui Deng, Yi Wang, <b>Zida Li</b>, et al.
+  authors: Jiazhao Chen, Jingyi Ding, Rui Deng, Yi Wang, and <b>Zida Li</b>
+  description:
+  link:
+    url:
+    display: Submitted
+  highlight: 0
+  news2:
+
+- title: "From Droplets to Diagnosis: AI-Driven Imaging and System Integration in Digital Nucleic Acid Amplification Testing"
+  image:
+  authors: Yuanyuan Wei, Xianxian Liu, Yao Mu, Changran Xu, Guoxun Zhang, Tianhao Li, <b>Zida Li</b>, Wu Yuan, Ho-Pui Ho, and Mingkun Xu
   description:
   link:
     url:
@@ -20,11 +30,11 @@
 
 - title: "Materials-Driven Innovations in Digital Nucleic Acid Amplification Technologies: Transforming Molecular Diagnostics"
   image:
-  authors: Jiazhao Chen, Kai Wu, Jingyi Ding, <b>Zida Li</b>, et al.
+  authors: Jiazhao Chen, Kai Wu, Jingyi Ding, and <b>Zida Li</b>
   description:
   link:
     url:
-    display: In Revision
+    display: Chemical Engineering Journal, in press (2025)
   highlight: 0
   news2:
 
@@ -50,18 +60,18 @@
   news2:
 
 - title: "Embracing Poisson encapsulation statistics for improved droplet digital immunoassay"
-  image:
+  image: 2025_AC_Chai.png
   authors: Yujuan Chai, Xiaoxiang Hu, Qi Fang, Yuanyuan Guo, Binmao Zhang, Hangjia Tu, and <b>Zida Li</b>*
-  description:
+  description: 本研究提出了一种新型的超灵敏蛋白检测方法——包容性液滴数字免疫分析（iddELISA）。与传统方法只分析单颗微球的液滴不同，iddELISA结合统计模型，能够利用包含多颗微球的所有液滴，从而提高检测效率和准确性。以新冠病毒的核衣壳蛋白为例，该方法的检测灵敏度远超传统手段。该技术有望应用于极低浓度生物标志物的早期检测，对疾病早筛具有重要意义。
   link:
     url: https://doi.org/10.1021/acs.analchem.4c04552
     display: Anal. Chem. 97(1), 444–453 (2025)
-  highlight: 0
+  highlight: 1
   news2:
 
 - title: "StratoLAMP: Label-free, multiplex digital loop-mediated isothermal amplification based on visual stratification of precipitate"
   image: 2024_PNAS_Jin.png
-  description: 针对传统核酸检测依赖复杂荧光标记的局限性，我们开发了基于沉淀信号的StratoLAMP新技术，通过优化等温扩增体系使不同核酸靶标产生差异化沉淀，结合深度学习图像分析实现多靶标同步无标记检测，实验证实其可精准定量双靶标，该技术摆脱了荧光依赖，显著降低成本并简化操作，为资源有限地区的核酸检测提供了更便捷的解决方案。
+  description: 我们实验室开发了StratoLAMP，这是一种全新的多重基因检测方法，不依赖传统的荧光标记，因而更加简单、经济。该方法利用在DNA扩增过程中自然生成的微小沉淀物作为可视信号。通过精心设计，我们能够根据沉淀物的多少判断样本中含有哪些基因，并利用人工智能图像分析技术对结果进行高精度识别。StratoLAMP大大降低了基因检测的门槛，使其更适用于资源有限的环境，是实现更广泛分子诊断应用的重要一步。
   authors: Meichi Jin,# Jingyi Ding,# Yu Zhou, Jiazhao Chen, Yi Wang, and <b>Zida Li</b>*
   link:
     url: https://www.pnas.org/doi/10.1073/pnas.2314030121
@@ -84,7 +94,7 @@
 - title: "CoID-LAMP: Color-encoded, intelligent digital LAMP for multiplexed nucleic acid quantification"
   image: 2023_AC_Wu.png
   authors: Kai Wu,# Qi Fang,# Zhantao Zhao, and <b>Zida Li</b>*
-  description: 针对现有荧光探针法在多重核酸检测中存在的靶标特异性强、优化困难等问题，本研究开发了基于颜色编码的智能数字环介导等温扩增技术（CoID-LAMP）。该技术通过将不同染料标记的引物液滴与样本液滴在微孔阵列中配对进行LAMP扩增，利用液滴颜色解码引物信息，并通过检测扩增沉淀产物实现靶标定性与定量分析。研究首先建立了基于深度学习的图像分析流程，验证了核酸定量性能；随后分别采用荧光染料和明场染料实现了8重和4重核酸检测，证实该方法仅需普通光学成像即可完成多重检测。CoID-LAMP结合液滴微流控的多重检测优势与深度学习智能图像分析能力，为多重核酸检测提供了实用工具。
+  description: 本文介绍了一种名为 CoID-LAMP 的新方法，可同时检测和定量多种核酸（即基因材料）。与传统复杂的荧光标记方法不同，CoID-LAMP 利用颜色编码的液滴和深度学习图像分析来识别和统计不同的基因目标。该方法通过微阵列芯片将含有不同引物的彩色液滴与样本液滴配对，使反应在芯片上进行并通过图像观察。该系统兼容荧光和非荧光（可见光）染料，降低了成本，并简化了操作流程。这种技术有望让基因检测更加快捷、简便和普及。
   link:
     url: https://doi.org/10.1021/acs.analchem.2c05665
     display: Anal. Chem. 95(11), 5069–5078 (2023)
@@ -95,7 +105,7 @@
 - title: "Combinatorial perturbation sequencing on single cells using microwell-based droplet random pairing"
   image: 2022_BB_Xie.png
   authors: Run Xie,# Yang Liu,# Shiyu Wang, Xuyang Shi, Zhantao Zhao, Longqi Liu, Ya Liu,* and <b>Zida Li</b>*
-  description: 针对组合药物筛选面临的高通量测试难题和现有表型分析策略的局限性，本研究开发了基于微孔液滴随机配对的单细胞组合扰动测序技术（CP-seq）。该技术通过寡核苷酸条形码标记药物分子，将药物液滴与细胞液滴在微孔阵列芯片上随机配对，实现组合药物处理与条形码标记，随后通过单细胞RNA测序同时解析细胞转录组和药物处理信息。微流控液滴操作表现出色，微孔利用率高达83%。研究通过单药处理和组合药物处理实验验证了CP-seq在药物扰动转录组采集与分析方面的能力。该技术充分发挥液滴微流控的大规模并行处理优势，为高通量组合药物筛选提供了强有力的技术手段。
+  description: 本研究开发了一种名为CP-seq的新技术，用于在单个细胞水平上测试药物组合效果。研究人员通过给每种药物添加独特的条形码，并利用微流控装置将药物与细胞随机混合在微小液滴中。处理后，可以同时读取细胞的基因表达情况和其接触的药物组合。该方法能高效测试上千种药物组合，有望加速新疗法的发现并降低耐药性问题。
   link:
     url: https://doi.org/10.1016/j.bios.2022.114913
     display: Biosens. Bioelectron. 220, 114913 (2023)
@@ -128,7 +138,7 @@
 - title: "deep-dLAMP: deep learning-enabled polydisperse emulsion-based digital loop-mediated isothermal amplification"
   image: 2022_AS_Chen.png
   authors: Linzhe Chen,# Jingyi Ding,# Hao Yuan, Chi Chen,* and <b>Zida Li</b>*
-  description: 本研究开发了一种基于深度学习的非均匀乳液数字环介导等温扩增技术（deep-dLAMP），为核酸绝对定量提供了低成本、免标记的创新解决方案。针对传统数字核酸检测依赖精密仪器生成均一微滴和荧光检测的局限性，该技术通过在非均匀乳液中完成LAMP扩增反应，利用深度学习算法分析扩增沉淀产物图像，精准识别每个乳液的体积和阳性状态，再结合泊松分布实现核酸绝对定量。实验表明，deep-dLAMP检测限达5.6拷贝/微升，动态范围覆盖37.2-11000拷贝/微升，且对涡旋时间和图像质量等参数变化具有良好鲁棒性。该技术通过采用先进深度学习模型显著降低了仪器成本，为生物医学实验室提供了易于实施的数字化核酸检测方案，并有望发展成为即时检测系统。
+  description: 本研究提出了一种名为“deep-dLAMP”的低成本核酸定量方法，结合了常规实验室设备和深度学习技术。传统数字PCR需昂贵设备生成均一液滴，而该方法通过简单的涡旋混合生成不同大小的液滴，再借助深度学习图像分析判断每个液滴中是否发生了DNA扩增反应。通过识别液滴中可见沉淀物并结合液滴体积，利用统计模型估算样本中的核酸浓度。该方法检测准确、对实验条件适应性强，有望推广应用于普通实验室或现场核酸检测中。
   link: 
     url: https://doi.org/10.1002/advs.202105450
     display: Adv. Sci. 9(9), 2105450 (2022)
@@ -139,7 +149,7 @@
 - title: "Point-of-care blood coagulation assay based on dynamic monitoring of blood viscosity using droplet microfluidics"
   image: 2022_ACSSensors_Chen.png
   authors: Linzhe Chen, Donghao Li, Xinyu Liu, Yihan Xie, Jieying Shan, Haofan Huang, Xiaxia Yu, Yudan Chen, Weidong Zheng, and <b>Zida Li</b>*
-  description: 本研究开发了一种基于微流控技术的凝血功能快速检测新方法，解决了传统凝血检测耗时长、样本量大且依赖大型仪器的问题。该技术通过微流控芯片自动生成血液与缓冲液的混合液滴，利用凝血过程中血液黏度变化导致的液滴颜色改变来实时监测凝血过程。研究人员建立了血液黏度与液滴颜色的定量关系，并通过实验验证了检测结果的可靠性。进一步研发的便携式检测仪原型机采用简易流体驱动系统和低成本成像模块，实现了与传统方法相当的检测性能。这项技术操作简便、成本低廉，有望发展成为具有重要临床应用价值的床旁凝血检测系统。
+  description: 本研究开发了一种简便的新型血液检测设备，用于监测血液凝固的速度，这在手术及疾病管理中非常重要。该设备通过将血液和缓冲液混合成微小液滴，并观察血液在凝固过程中颜色的变化来判断其粘稠程度。通过分析液滴颜色变化，就可以推断出血液的凝固功能。研究团队还设计了一款便携原型设备，显示出这种技术有望应用于诊所或紧急情况等实验室之外的场景。
   link:
     url: https://doi.org/10.1021/acssensors.1c02360
     display: ACS Sens. 7(8), 2170–2177 (2022)
@@ -388,4 +398,3 @@
     display: Adv. Mater. Res. 165, 248-254 (2012)
   highlight: 0
   news2:
-

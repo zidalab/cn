@@ -1,24 +1,3 @@
-- name: 方琪
-  photo: Fangqi.jpg
-  info: 硕士研究生
-  email: 779574160 AT qq.com
-  number_educ: 1
-  education1: 安徽医科大学，生物医学工程学士（2018-2022）
-
-- name: 翟恒
-  photo: Zhaiheng.jpg
-  info: 硕士研究生
-  email: zhaiheng1998 AT outlook.com
-  number_educ: 1
-  education1: 广东医科大学，生物医学工程学士（2017-2021）
-
-- name: 姚婉君
-  photo: Wanjun.jpg
-  info: 硕士研究生
-  email: yaowanjun2000 AT 163.com
-  number_educ: 1
-  education1: 浙江理工大学，电子信息工程学士（2018-2022）
-
 - name: 陈佳兆
   photo: Jiazhao.jpg
   info: 硕士研究生
@@ -72,5 +51,12 @@
   photo: Junnan.jpg
   info: 硕士研究生
   email: 2531546623 AT qq.com
+  number_educ: 1
+  education1: 深圳大学，生物医学工程学士（2021-2025）
+
+- name: 陈华儿
+  photo: Huaer.jpg
+  info: 硕士研究生
+  email: 1160781978 AT qq.com
   number_educ: 1
   education1: 深圳大学，生物医学工程学士（2021-2025）

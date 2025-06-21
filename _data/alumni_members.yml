@@ -1,3 +1,39 @@
+- name: 方琪
+  photo: Fangqi.jpg
+  duration: 2022-2025，硕士研究生
+  current: 达普生物技术工程师
+  email: 779574160 AT qq.com
+  thesis: 基于电阻抗分析的无标记数字LAMP
+  number_educ: 1
+  education1: 安徽医科大学，生物医学工程学士（2018-2022）
+  education2:
+  education3:
+  education4:
+
+- name: 翟恒
+  photo: Zhaiheng.jpg
+  duration: 2022-2025，硕士研究生
+  current: TBD
+  email: zhaiheng1998 AT outlook.com
+  thesis: 基于液滴融合的单细胞测序系统
+  number_educ: 1
+  education1: 广东医科大学，生物医学工程学士（2017-2021）
+  education2:
+  education3:
+  education4:
+
+- name: 姚婉君
+  photo: Wanjun.jpg
+  duration: 2022-2025，硕士研究生
+  current: 教育行业
+  email: yaowanjun2000 AT 163.com
+  thesis: 基于多分散凝胶微球流式分析的EB病毒定量方法
+  number_educ: 1
+  education1: 浙江理工大学，电子信息工程学士（2018-2022）
+  education2:
+  education3:
+  education4:
+
 - name: 金美池
   photo: Meichi.jpg
   duration: 2021-2024，硕士研究生
