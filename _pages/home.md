@@ -85,7 +85,7 @@ permalink: /
 
 <img src="{{site.utl}}{{site.baseurl}}/images/picpic/home_group_photo.jpg" width="95%" />   
 
-**从左到右**：邓蕊，李自达（PI），翟恒，黄振栩，朱嘉盈，方琪，黄晓娜，范文楷，郑雨憧，姚婉君
+**从左到右**：陈佳兆，黄振栩，范文楷，钟俊男，郑翊思，李自达，陈华儿，黄晓娜，郑雨憧，朱嘉盈
 
 [**了解更多团队信息 →**](team)
 
