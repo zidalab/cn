@@ -52,6 +52,16 @@ permalink: /publications/
 <p> &nbsp; </p>
 
 
+## 完整论文列表
+
+{% for publi in site.data.publist %}
+
+  {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+
+{% endfor %}
+
+
 ## 专利
 <em><b>Zida Li</b>, Tao Wang, Yongjin Zhou, Zengtong Chen</em><br />
 A system and method for single cell isolation using droplet microfluidics<br />
@@ -100,12 +110,3 @@ U.S. Patent Application, 62/304,385 (2018)
 <em>Ho Cheung Shum, Alban Sauret, <b>Zida Li</b>, Yang Song</em><br />
 System and method for generation of emulsions with low interfacial tension and measuring frequency vibrations in the system<br />
 U.S. Patent Application, 13/839,072 (2013)
-
-## 完整论文列表
-
-{% for publi in site.data.publist %}
-
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-
-{% endfor %}

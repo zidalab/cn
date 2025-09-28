@@ -16,7 +16,7 @@ permalink: /zidali/
   <li>香港大学研究助理 (2012–2013)</li>
   <li>中国科学技术大学学士 (2008–2012)</li>
   </ul>
-  详见 <a href = "https://scholar.google.com/citations?user=9s8iCB0AAAAJ&amp;hl=en" target="_blank">Scholar</a>, <a href="{{ site.url }}{{ site.baseurl }}/downloads/CV-Chinese.pdf" target="_blank">简历</a> or <a href="{{ site.url }}{{ site.baseurl }}/downloads/CV-English.pdf" target="_blank">CV</a>
+  详见 <a href = "https://bme.szu.edu.cn/info/1164/1826.htm" target="_blank">深大官网</a>, <a href = "https://scholar.google.com/citations?user=9s8iCB0AAAAJ&amp;hl=en" target="_blank">Scholar</a>,<a href="{{ site.url }}{{ site.baseurl }}/downloads/CV-Chinese.pdf" target="_blank">简历</a> or <a href="{{ site.url }}{{ site.baseurl }}/downloads/CV-English.pdf" target="_blank">CV</a>
 </div>
 
 </div>
@@ -28,6 +28,7 @@ permalink: /zidali/
 <i>深圳大学</i><br>
 副教授，生物医学工程学院（2024-至今）<br>
 助理教授，生物医学工程学院（2018-2023）<br>
+
 <i>香港大学</i><br>
 研究助理，机械工程系（2012-2013）<br>
 导师：岑浩璋
