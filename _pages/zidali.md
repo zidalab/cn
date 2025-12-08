@@ -10,12 +10,9 @@ permalink: /zidali/
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Zida.jpg" class="img-responsive" width="25%" style="float: left" />
   <h4>李自达</h4>
   <i>副教授、博导</i> <br>
+  深圳大学生物医学工程学院<br>
   email: zidali AT szu.edu.cn<br>
-  <ul style="overflow: hidden">
-  <li>密歇根大学博士 (2013–2018)</li>
-  <li>香港大学研究助理 (2012–2013)</li>
-  <li>中国科学技术大学学士 (2008–2012)</li>
-  </ul>
+
   详见 <a href = "https://bme.szu.edu.cn/info/1164/1826.htm" target="_blank">深大官网</a>, <a href = "https://scholar.google.com/citations?user=9s8iCB0AAAAJ&amp;hl=en" target="_blank">Scholar</a>,<a href="{{ site.url }}{{ site.baseurl }}/downloads/CV-Chinese.pdf" target="_blank">简历</a> or <a href="{{ site.url }}{{ site.baseurl }}/downloads/CV-English.pdf" target="_blank">CV</a>
 </div>
 
