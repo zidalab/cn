@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+
+  <title>Redirecting...</title>
+
+  <script>
+    const oldBase = '/cn';
+    const newBase = '/zh';
+
+    let path = location.pathname;
+
+    if (path === oldBase || path === oldBase + '/') {
+      path = newBase + '/';
+    } else if (path.startsWith(oldBase + '/')) {
+      path = newBase + path.slice(oldBase.length);
+    } else {
+      path = newBase + '/';
+    }
+
+    const target = 'https://zidalab.github.io' + path
+      + location.search
+      + location.hash;
+
+    location.replace(target);
+  </script>
+</head>
+<body>
+  <p>
+    页面已迁移到
+    <a href="https://zidalab.github.io/zh/">https://zidalab.github.io/zh/</a>
+  </p>
+</body>
+</html>
